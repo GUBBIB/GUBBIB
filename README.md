@@ -21,23 +21,26 @@ test
 ## 💻 Tech Stack
 
 ### 🚀 Languages
-<p>
-  <img src="URL" alt="Java" width="40" height="40"/>
-  <img src="URL" alt="Python" width="40" height="40"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
 </p>
 
 ### 🔧 Tools & Frameworks
-<p>
-  <img src="URL" alt="Spring Boot" width="40" height="40"/>
-  <img src="URL" alt="Laravel" width="40" height="40"/>
-  <img src="URL" alt="React" width="40" height="40"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB"/>
 </p>
 
 ### 🗃️ Databases
-<p>
-  <img src="URL" alt="MySQL" width="40" height="40"/>
-  <img src="URL" alt="MongoDB" width="40" height="40"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
+
 
 ---
 
@@ -63,3 +66,7 @@ test
 <p>
   <a href="mailto:moon.dragon250@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<!--
+각종 아이콘 : https://github.com/Ileriayo/markdown-badges
+-->
