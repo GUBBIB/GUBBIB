@@ -44,7 +44,7 @@
 
 ---
 
-## 현재 BOJ 티어
+## 🧠 현재 BOJ 티어
 <p align="center">
   <a href="https://www.acmicpc.net/user/gcce23">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gcce23" alt="solved.ac 프로필" />
