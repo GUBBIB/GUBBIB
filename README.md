@@ -46,11 +46,12 @@
 
 ## 현재 BOJ 티어
 <p align="center">
-
-  [![Solved.ac 
-  Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gcce23)](https://www.acmicpc.net/user/gcce23)
-  [![Solved.ac 
-  Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gcce23)](https://solved.ac/profile/gcce23)
+  <a href="https://www.acmicpc.net/user/gcce23">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gcce23" alt="solved.ac 프로필" />
+  </a>
+  <a href="https://solved.ac/profile/gcce23">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gcce23" alt="solved.ac 프로필 (solved.ac)" />
+  </a>
 </p>
 
 ---
