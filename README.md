@@ -44,12 +44,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GUBBIB&show_icons=true&theme=github_dark" alt="GUBBIB's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GUBBIB&theme=github-dark" alt="GUBBIB's GitHub streak" width="48%"/>
-</p>
+## 현재 BOJ 티어
+[![Solved.ac 
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gcce23)](https://www.acmicpc.net/user/gcce23)
+[![Solved.ac 
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gcce23)](https://solved.ac/profile/gcce23)
 
 ---
 
