@@ -1,12 +1,9 @@
-test
----
-
-
-<h1 align="center">Hi 👋, I'm GUBBIB</h1>
-<p align="center">A passionate backend developer from Korea</p>
+<h1 align="center">안녕하세요 👋 GUBBIB입니다</h1>
+<p align="center">풀스택 개발자를 꿈꾸며 열심히 공부하고 있습니다
+</p>
 
 ---
-
+<!-- 
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **[프로젝트 이름]**
@@ -16,7 +13,7 @@ test
 - 📫 How to reach me: **[이메일 또는 SNS 링크]**
 - ⚡ Fun fact: **[재밌는 한 줄 소개]**
 
----
+--- -->
 
 ## 💻 Tech Stack
 
