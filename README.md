@@ -64,8 +64,14 @@
 ## 📫 Contact Me
 
 <p>
-  <a href="mailto:moon.dragon250@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:moon.dragon250@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/267056816066789376">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
+
 
 <!--
 각종 아이콘 : https://github.com/Ileriayo/markdown-badges
